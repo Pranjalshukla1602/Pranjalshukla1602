@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋,I'm Pranjal</h1>
-(https://github.com/Pranjalshukla1602/Pranjalshukla1602/raw/master/final1.gif)
+<div align="center"><img src="final1.gif"/></div>
 
 
    
