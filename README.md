@@ -2,7 +2,7 @@
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=Pranjalshukla1602&label=Profile%20views&color=0e75b6&style=flat" alt="Pranjalshukla1602" /> </div>
 <div align="center"><img src="final1.gif"/></div>
 <h1>💫About Me :</h1>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Pranjalshukla1602/Pranjalshukla1602/Right_Side.gif?raw=true" width = 250px></picture>
 
 <div align=left>
         <p>
